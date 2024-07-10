@@ -1,0 +1,9 @@
+res://scenes/main.tscn
+res://scenes/player.tscn
+res://scenes/slime.tscn
+res://scripts/game/states/EnemyFollow.gd
+res://scripts/game/states/EnemyIdle.gd
+res://scripts/game/slime.gd
+res://scripts/game/player.gd
+res://scripts/components/HitboxComponent.gd
+res://scripts/components/MoveInputComponent.gd

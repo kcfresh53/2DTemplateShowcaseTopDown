@@ -1,0 +1,15 @@
+FlashComponent
+CollisionShape2D
+DamageboxComponent
+Area2D
+EnemyFollow
+MoveComponent
+AnimatedSprite2D
+EnemyIdle
+StateMachine
+CharacterBody2D
+ScaleComponent
+HealthComponent
+HitboxComponent
+CameraLimiter
+MoveInputComponent
